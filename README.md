@@ -1,7 +1,5 @@
 # Commands
 
-Video Link: [https://youtu.be/oHSesteFK5c](https://youtu.be/oHSesteFK5c)
-
 
 - Install aws-shell
 ```
